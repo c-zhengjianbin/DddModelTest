@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Created by zhengjianbin on 2019/12/2.
  */
-public class VirtualWalletBO {
+public class VirtualWalletBo {
 
     private Long id;
     private Long createTime;
